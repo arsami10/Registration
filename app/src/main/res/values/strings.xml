@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Registration</string>
+    <string name="empty">Fields are empty!</string>
+    <string name="log_in">LOG IN</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="not_registered_sign_up_here">Not Registered? Sign Up here</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="already_have_an_account_sign_in_here">Already have an account? Sign in here</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="welcome_you_are_logged_in">Welcome! You are Logged in</string>
+    <string name="log_out">LOG OUT</string>
+</resources>
